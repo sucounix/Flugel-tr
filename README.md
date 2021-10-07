@@ -6,7 +6,7 @@
 
 1- By runing " tests/go test -v tf_test.go " 
 
-    ![Screenshot](scr/tr-output.png)
+    ![Screenshot](https://github.com/sucounix/flugel-tr/blob/master/scr/tr-output.png?raw=true)
     scr/tr-test-output.png
 
 ### 2 - Apply Code Using Github Actions pipeline
