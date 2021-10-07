@@ -6,33 +6,32 @@
 
 1- By runing " tests/go test -v tf_test.go " 
 
-    ![Screenshot](https://github.com/sucounix/flugel-tr/blob/master/scr/tr-output.png?raw=true)
-    scr/tr-test-output.png
+   ![Screenshot](scr/tr-output.png)
+   ![Screenshot](scr/tr-test-output.png)
 
 ### 2 - Apply Code Using Github Actions pipeline
 
 1- Set Tokens
 
-    scr/git-action-ci-tr-apply-test.png
+   ![Screenshot](scr/tr-token-in-github.png)
 
 
 2- Github Actions pipeline apply results
 
-    scr/git-action-ci-tr-apply-test.png
+   ![Screenshot](scr/git-action-ci-tr-apply-test.png)
 
 3- AWS resources been created filtered by tag
 
-    scr/aws-resources.png
+   ![Screenshot](scr/aws-resources.png)
 
 ### 3 - configure pull request approval process with code automation checks
 
  1- Applying pull request approval rule on master
 
-   scr/pr-approvel-rule.png
+   ![Screenshot](scr/pr-approvel-rule.png)
 
 
  2- Github request approval rule results 
 
-   scr/pr-approvel-with-code-checks.png
+   ![Screenshot](scr/pr-approvel-with-code-checks.png)
  
- 3-   
