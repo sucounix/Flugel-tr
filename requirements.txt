@@ -1,0 +1,41 @@
+TEST #1 
+
+1- Create Terraform code to create an S3 bucket and an EC2 instance. Both resources must be tagged with Name=Flugel, Owner=InfraTeam.    [ Done ]
+
+
+2- Using Terratest, create the test automation for the Terraform code, validating that both resources are tagged properly.               [ Done ] 
+
+
+3- Setup Github Actions to run a pipeline to validate this code.                                                                         [ Done ] 
+ 
+
+
+4- Publish your code in a public GitHub repository, and share a Pull Request with your code. Do not merge into master until the PR is approved.   [ Done ] 
+
+
+
+5- Include documentation describing the steps to run and test the automation.                                                   
+
+
+
+
+TEST #2 
+
+ 
+
+1- Complete the test #1 + the following actions: 
+
+2- Merge any pending PR. 
+
+
+3- Create a new PR with code and updated documentation for the new requirement. 
+
+
+4- I want a cluster of 2 EC2 instances behind an ALB running Nginx, serving a static file. This static file must be generated at boot, using a Python script. Put the AWS instance tags in the file. 
+
+
+
+5- The cluster must be deployed in a new VPC. This VPC must have only one public subnet. Do not use default VPC 
+
+
+6- Update the tests to validate the infrastructure. The test must check that files are reachable in the ALB. 
