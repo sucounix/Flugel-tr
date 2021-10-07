@@ -14,7 +14,7 @@ TEST #1
 
 
 
-5- Include documentation describing the steps to run and test the automation.                                                   
+5- Include documentation describing the steps to run and test the automation.           [ Done ]                                         
 
 
 
