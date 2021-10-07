@@ -6,7 +6,7 @@
 
 1- By runing " tests/go test -v tf_test.go " 
 
-    scr/tr-output.png
+    ![Screenshot](scr/tr-output.png)
     scr/tr-test-output.png
 
 ### 2 - Apply Code Using Github Actions pipeline
