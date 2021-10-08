@@ -47,4 +47,4 @@ resource "aws_s3_bucket" "Flugel"{
     Owner = var.owner
   }
 }
-//Suc0_Cloud-01
+//Suc0_Cloud-02
