@@ -516,6 +516,6 @@ Changes to Outputs:
 
  ### 3 - PR with code and updated documentation for the new requirement
  
- ![Screenshot](scr/) 
+ ![Screenshot](scr/pr_req_prov_test_02.png) 
  
  ***Done***
