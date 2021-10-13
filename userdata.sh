@@ -18,8 +18,7 @@ import os
 import requests
 
 os.environ['AWS_DEFAULT_REGION'] = 'us-east-2'
-#os.environ['AWS_ACCESS_KEY_ID'] = 'AKIAUZUP4TP6NITKRHJY'
-#os.environ['AWS_SECRET_ACCESS_KEY'] = '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'
+
 
 sys.tracebacklimit = 0
 
